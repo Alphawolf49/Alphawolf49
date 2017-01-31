@@ -1,0 +1,14 @@
+Package: com.laughingquoll.noctis
+Version: 1.7.4
+Architecture: iphoneos-arm
+Maintainer: AlphaBroz <gbertram49@icloud.com>
+Filename: /com.laughingquoll.noctis_1.7.4.1_iphoneos-arm.deb
+Size: 3964
+MD5sum: 1a8138e15538f13abea24247398bbb30
+SHA1: 460cb3760bc3ab20f020876140374096909cc969
+SHA256: af11c2e485ccf5abdba9ae59f77b2413eff9c51b15ddb62b0d1239347fcb6dd9
+Section: Tweaks
+Description: Dark Theme Mode
+Author: AlphaBroz <gbertram49@icloud.com>
+Depiction: https://github.com/Alphawolf49/Alphawolf49.github.io
+Name: Noctis
